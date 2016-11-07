@@ -1,0 +1,76 @@
+Hi, guys i hope you are doing well. This is Sachin Narang, working in Mobilyte INDIA tech pvt. ltd. as an Android Developer. Main area of interest is to work on problem solving techniques. 
+
+*********************** Make your code as HELL as SIMPLE ***********************
+
+Well this is MVP sample.
+
+M?V?C?P? 	
+
+
+wt*????
+
+
+
+which should we use?
+
+For MVC you can download it from svn, which is provided by me in anroid sample codes. But this time I'm gonna discuss about MVP that is
+ 
+MODEL VIEW PRESENTER
+
+This is very nice design pattern, code maintenance is very simple in this design pattern. We must use MVP.
+
+I hope you have basic knowledge of oops.
+
+In this sample I'm gonna discuss about Presneter, Interactor, View very frequently.
+
+so you must know
+
+Model: What to show?
+
+View: How to show?
+
+Presenter: User Input, Basically you can say main thread Business logic
+
+Interactor: which is part of Presenter, this is responsible for backgound thread business logic.
+
+
+
+Now in the sample you will see following packages:
+
+views: activity, fragment, view (View classes of fragment and activites)
+
+presenter: presenterImpl classes
+
+interactor: interactorImpl Classes
+
+repositories: basrepo(Lifecycle of presenter), interacotr(interactor functions), presenter(presenter functions)
+
+basecontrollers: your base activites and base controllers.
+
+network: your nw relaed classes like Retrofit
+
+models: your bean classes
+
+
+
+for further implementation please go thorugh my mvc sample.
+
+
+Stay tunned!!!!! my next session will be about RXJAVA
+
+Now a days RXJAVA is craziest thing in developers. Netflix nailed this time. Just Forget about asynctask, handlers stay calm and code well
+
+
+Thanks guys i hope you will like that sample.
+Regards 
+Sahin Narang
+Emp Code: 22208
+Mobilyte INDIA TECH PVT LTD.
+
+
+
+
+
+
+
+
